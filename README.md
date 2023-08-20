@@ -26,8 +26,7 @@ l’invite de commande.
 A partir des entrées, l’application devra faire l'appel des commandes
 entrées et produire les résultats en sortie. (l’écran)
 
-<br>
-**Exemple :**
+<p align="center">Exemple :</p><br>
 Entrée : formation [un entier naturel compris entre MIN_UE et MAX_UE] (commande 1)
 <br>
 **Sorties possibles:**
