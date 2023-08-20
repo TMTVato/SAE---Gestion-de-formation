@@ -6,6 +6,8 @@ Le projet en question est la SAé S1.01 effectué en période A à
 l’Université Rives-de-Seine en formation BUT Informatique, par les
 étudiants de 1er année (2022-2023) John LI et Nassim BEN DAALI,
 Groupe 105.
+<br>
+
 L’objectif de ce projet consistait à l’implémentation d’un besoin client. Ici,
 développer un interpréteur de commande permettant de gérer une
 formation universitaire. Tout en respectant des contraintes telles qu’un
