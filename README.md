@@ -26,10 +26,10 @@ l’invite de commande.
 A partir des entrées, l’application devra faire l'appel des commandes
 entrées et produire les résultats en sortie. (l’écran)
 
-
-**Exemple :**
+<br>
+**Exemple :**<br>
 Entrée : formation [un entier naturel compris entre MIN_UE et MAX_UE] (commande 1)
-**Sorties possibles:**
+**Sorties possibles:**<br>
 ● "Le nombre d'UE est incorrect"
 ● "Le nombre d'UE est deja defini"
 ● "Le nombre d'UE est defini"
