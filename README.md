@@ -1,5 +1,7 @@
 # SAE-Gestion-de-formation
-<h1 align="center">Présentation brève du projet<h1 align="center"><br>
+<h1 align="center">Présentation brève du projet</h1><br>
+
+
 Le projet en question est la SAé S1.01 effectué en période A à
 l’Université Rives-de-Seine en formation BUT Informatique, par les
 étudiants de 1er année (2022-2023) John LI et Nassim BEN DAALI,
@@ -8,6 +10,8 @@ L’objectif de ce projet consistait à l’implémentation d’un besoin client
 développer un interpréteur de commande permettant de gérer une
 formation universitaire. Tout en respectant des contraintes telles qu’un
 cahier des charges et des limites numériques.
+
+
 Les huit commandes à prendre en compte vont permettre de définir la
 structure de la formation tels que les semestres, les matières, épreuves
 et leurs coefficients. Ainsi que les étudiants qui y sont inscrits, d’affecter
@@ -17,11 +21,15 @@ L’utilisateur pourra en entrée saisir des chaînes de caractères de
 formats attendus par les commandes en utilisant soit l'entrée standard
 (le clavier), ou par redirection d’un fichier texte sur l'entrée standard via
 l’invite de commande.
+
+
 A partir des entrées, l’application devra faire l'appel des commandes
 entrées et produire les résultats en sortie. (l’écran)
-Exemple :
+
+
+**Exemple :**
 Entrée : formation [un entier naturel compris entre MIN_UE et MAX_UE] (commande 1)
-Sorties possibles:
+**Sorties possibles:**
 ● "Le nombre d'UE est incorrect"
 ● "Le nombre d'UE est deja defini"
 ● "Le nombre d'UE est defini"
