@@ -1,5 +1,5 @@
 # SAE-Gestion-de-formation
-<p align="center"><i>Présentation brève du projet<i></p><br>
+<h1 align="center">Présentation brève du projet<h1 align="center"><br>
 Le projet en question est la SAé S1.01 effectué en période A à
 l’Université Rives-de-Seine en formation BUT Informatique, par les
 étudiants de 1er année (2022-2023) John LI et Nassim BEN DAALI,
