@@ -27,9 +27,10 @@ A partir des entrées, l’application devra faire l'appel des commandes
 entrées et produire les résultats en sortie. (l’écran)
 
 <br>
-**Exemple :**<br>
+**Exemple :**
 Entrée : formation [un entier naturel compris entre MIN_UE et MAX_UE] (commande 1)
-**Sorties possibles:**<br>
+<br>
+**Sorties possibles:**
 ● "Le nombre d'UE est incorrect"
 ● "Le nombre d'UE est deja defini"
 ● "Le nombre d'UE est defini"
