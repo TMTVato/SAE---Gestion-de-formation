@@ -26,12 +26,18 @@ l’invite de commande.
 A partir des entrées, l’application devra faire l'appel des commandes
 entrées et produire les résultats en sortie. (l’écran)
 
-<p align="center">Exemple :</p><br>
+<p>Exemple :</p>
+
+
 Entrée : formation [un entier naturel compris entre MIN_UE et MAX_UE] (commande 1)
-<br>
-**Sorties possibles:**
+
+<p>Sorties possibles:</p>
+
+
 ● "Le nombre d'UE est incorrect"
 ● "Le nombre d'UE est deja defini"
 ● "Le nombre d'UE est defini"
+
+
 A la suite de ces tâches, la nécessité de rédiger un dossier de
 développement logiciel afin de rendre compte du travail effectué.
